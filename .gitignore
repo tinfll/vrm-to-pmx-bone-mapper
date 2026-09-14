@@ -1,0 +1,11 @@
+# Blender session / source files
+*.blend
+*.blend1
+*.blend2
+
+# raw demo recordings
+*.mp4
+
+# python caches
+__pycache__/
+*.pyc
